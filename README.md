@@ -48,4 +48,16 @@ When looking at math and reading score by grade, it is shown that the 9th grade 
 
 PIC OF NEW/OLD SCHOOL SPENDING
 
-When reviewing the School Spending summary, this data change did not impact the spending ranges for either the average math scores or average reading scores. However, this data change did impact the spending ranges for passing percentages. According to the summary above, there was a 6% decrease in % passing math, a 7% decrease in % passing reading, and a 6% decrease in % overall passing in the $630-644 spending range.
+As Thomas High School fell into the "$630-644" bracket, there is only a slight change in that spending range row. Average math scores dropped 0.02, average reading increased 0.02, the percentage passing math dropped 0.02%, the percentage passing reading dropped 0.07%, and the overall passing percent dropped 0.08%.
+
+### Scores by School Size
+
+PIC OF NEW/OLD SCHOOL SIZE
+
+As Thomas High School fell into the "Medium (1000-2000)" bracket, there is only a slight change in that school size row. Average math scores dropped 0.01, average reading increased 0.01, the percentage passing math dropped 0.02%, the percentage passing reading dropped 0.06%, and the overall passing percent dropped 0.06%.
+
+### Scores by School Type
+
+PIC OF NEW/OLD SCHOOL TYPE
+
+As Thomas High School is a "Charter" school, there is only a slight change in that school type row. Average math scores dropped 0.008, average reading increased 0.006, the percentage passing math dropped 0.01%, the percentage passing reading dropped 0.04%, and the overall passing percent dropped 0.04%.
